@@ -1,6 +1,6 @@
 const BASE_URL = "https://api.exchangerate-api.com/v4/latest";
 
-// Select necessary DOM elements
+// Select necessary DOM elements . 
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
 const fromCurr = document.querySelector(".from select");
